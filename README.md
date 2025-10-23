@@ -75,8 +75,8 @@ Giao diện có hiệu ứng bo góc, màu sắc tùy chỉnh và thông báo ch
 ---
 
 ## ❤️ Tác giả
-👩‍💻 **Poppy** – Sinh viên yêu thích Genshin Impact và lập trình 🎮  
-> “Mỗi dòng code là một bước phiêu lưu mới!”
+👩‍💻 **Poppy** – Sinh viên yêu thích Game và lập trình 🎮  
+
 
 ---
 
